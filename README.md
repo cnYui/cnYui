@@ -18,7 +18,7 @@
 - 🌱 I'm currently learning **Machine Learning & Cloud Technologies**
 - 👯 I'm looking to collaborate on **innovative open source projects**
 - 💬 Ask me about **JavaScript, Python, AI, or anything tech-related**
-- 📫 How to reach me: **cnYui@example.com**
+- 📫 How to reach me: **cnYui@example.com** | **[aaccx.pw](https://aaccx.pw)**
 - ⚡ Fun fact: **I can debug code faster than I can solve a Rubik's cube! 🧩**
 - 🎮 When not coding: **Playing chess ♟️, solving puzzles 🧩, or exploring new tech 🚀**
 
@@ -124,12 +124,12 @@ Though it's not the most efficient for large numbers 😉
 
 | Skill | Level | Progress |
 |:---:|:---:|:---:|
-| **JavaScript** | Expert | ![90%](https://progress-bar.dev/90?color=f1e05a) |
-| **Python** | Advanced | ![85%](https://progress-bar.dev/85?color=3572A5) |
-| **React** | Advanced | ![80%](https://progress-bar.dev/80?color=61dafb) |
-| **Node.js** | Intermediate | ![75%](https://progress-bar.dev/75?color=339933) |
-| **AI/ML** | Learning | ![60%](https://progress-bar.dev/60?color=ff6b6b) |
-| **Coffee Making** | Master | ![100%](https://progress-bar.dev/100?color=8B4513) |
+| **JavaScript** | Expert | ![90%](https://img.shields.io/badge/Progress-90%25-f1e05a?style=flat-square) |
+| **Python** | Advanced | ![85%](https://img.shields.io/badge/Progress-85%25-3572A5?style=flat-square) |
+| **React** | Advanced | ![80%](https://img.shields.io/badge/Progress-80%25-61dafb?style=flat-square) |
+| **Node.js** | Intermediate | ![75%](https://img.shields.io/badge/Progress-75%25-339933?style=flat-square) |
+| **AI/ML** | Learning | ![60%](https://img.shields.io/badge/Progress-60%25-ff6b6b?style=flat-square) |
+| **Coffee Making** | Master | ![100%](https://img.shields.io/badge/Progress-100%25-8B4513?style=flat-square) |
 
 </div>
 
