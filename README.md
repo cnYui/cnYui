@@ -1,6 +1,6 @@
 # Yui / 悠一
 
-我是 Yui，目前在日本福井大学读研究生。
+我是 Yui，目前在日本福井大学读研究生，同时在 AI Mage（アニメ IP × AI 的东京初创公司）实习。
 
 我是一名 AI Native Developer、独立软件开发者、设计师和创作者。我的关注点不是把 AI 当成附加功能，而是围绕 AI 能力设计产品：从需求拆解、工作流编排、Agent 系统、RAG / GraphRAG，到用户体验和最终验证。
 
@@ -22,6 +22,7 @@
 ## 经历关键词
 
 - 福井大学研究生
+- AI Mage 实习（アニメ IP 监修 × AI）
 - AI Native Developer
 - 高频黑客松参与者
 - 产品导向的 AI Coding 实践者
@@ -29,5 +30,5 @@
 
 ## 联系方式
 
-- 邮箱：xiaobianfuai@gmail.com
+- 邮箱：<xiaobianfuai@gmail.com>
 - 个人网站：[aaccx.pw](https://aaccx.pw)
