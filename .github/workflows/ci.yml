@@ -31,7 +31,6 @@ jobs:
         with:
           args: >-
             --no-progress
-            --exclude-mail
             --max-retries 3
             --retry-wait-time 3
             "**/*.md"
