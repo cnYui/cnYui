@@ -30,5 +30,5 @@
 
 ## 联系方式
 
-- 邮箱：xiaobianfuai@gmail.com
+- 邮箱：<xiaobianfuai@gmail.com>
 - 个人网站：[aaccx.pw](https://aaccx.pw)
