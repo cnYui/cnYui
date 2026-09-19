@@ -2,9 +2,9 @@
 
 # Yui / 悠一
 
-我是 Yui（邬健翔 / WU JIANXIANG），目前在日本**福井大学**读研究生，同时在 **AI Mage**（アニメ IP × AI 的东京初创公司）实习。
+我是 Yui（邬健翔 / WU JIANXIANG），**福井大学**信息工程方向研究生、**AI Mage**（アニメ IP × AI 的东京初创公司）实习生，一名 **AI Native Developer**，关注 Coding Agent 工作流、Agentic RAG 和 AI 原生产品。
 
-我是一名 **AI Native Developer**、独立软件开发者、设计师和创作者。我的关注点不是把 AI 当成附加功能，而是围绕 AI 能力设计产品：从需求拆解、工作流编排、Agent 系统、RAG / GraphRAG，到用户体验和最终验证。
+我同时也是独立软件开发者、设计师和创作者。我的关注点不是把 AI 当成附加功能，而是围绕 AI 能力设计产品：从需求拆解、工作流编排、Agent 系统、RAG / GraphRAG，到用户体验和最终验证。
 
 - 🌐 个人网站：[aaccx.pw](https://aaccx.pw)
 - 🤖 把这个链接发给你的 AI Agent，它就能了解我：[aaccx.pw/SKILL.md](https://aaccx.pw/SKILL.md)
@@ -47,12 +47,13 @@
   <img src="assets/adventurex-2024.jpg" width="49%" alt="AdventureX 2024" />
 </p>
 
-- 🥇 环球黑客松（Global AI Hackathon Tour）金奖 · 2026
-- 🎖️ 南京大学 AI 黑客松高校巡回赛 决赛入围 · 2026
-- 🥈 TRAE SOLO Hackathon 二等奖 · 2025
-- 🥇 渝客松 Google GDG 赛道 第一名 · 2025（项目 [YUIkesong](https://github.com/cnYui/YUIkesong)）
-- 🥉 无锡 Rokid AR AI 智能眼镜开发 三等奖 · 2025
-- 🏅 腾讯云黑客松 获奖 · 2025
+- 🥈 Rokid 大阪 Mini Hackathon 二等奖 · 2026.09（项目 [DoubleTraining](https://github.com/cnYui/doubletraining)）
+- 🎖️ AI Hackathon Tour 南京大学站 决赛入围 · 2026.03
+- 🥇 环球黑客松 金奖 · 2026.01
+- 🥇 渝客松 Google GDG 赛道 第一名 · 2025.11（项目 [YUIkesong](https://github.com/cnYui/YUIkesong)）
+- 🥉 无锡 Rokid AR AI 比赛 三等奖 · 2025.11
+- 🏅 腾讯云线上黑客松 获奖 · 2025.09
+- 🥈 TRAE SOLO 黑客松上海站 第二名 · 2025.08
 
 ## 经历关键词
 
