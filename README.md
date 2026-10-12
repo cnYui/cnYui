@@ -7,8 +7,23 @@
 我同时也是独立软件开发者、设计师和创作者。我的关注点不是把 AI 当成附加功能，而是围绕 AI 能力设计产品：从需求拆解、工作流编排、Agent 系统、RAG / GraphRAG，到用户体验和最终验证。
 
 - 🌐 个人网站：[aaccx.pw](https://aaccx.pw)
+- 🔌 AI API 中转站（天才程序员小站）：[aaccx.pw/home](https://aaccx.pw/home)
+- 📕 小红书：[我的小红书主页](https://www.xiaohongshu.com/user/profile/5b869e548bf5ee0001f35235)
 - 🤖 把这个链接发给你的 AI Agent，它就能了解我：[aaccx.pw/SKILL.md](https://aaccx.pw/SKILL.md)
 - 📧 邮箱：<xiaobianfuai@gmail.com>
+
+## 在线可玩的游戏
+
+把喜欢的作品做成了可以直接在浏览器里玩的剧情游戏，全部部署在 [aaccx.pw](https://aaccx.pw)，打开就能玩，电脑（键盘）和手机 / 平板（横屏触屏）都支持。
+
+| 游戏 | 简介 | 在线试玩 | 源码 |
+| --- | --- | --- | --- |
+| 银魂 像素剧场 | 2D 剧情打斗：对话推进、自由走动、触发战斗，序章到终章共 15 章 | [aaccx.pw/gintama](https://aaccx.pw/gintama/) | [gintama-pixel-game](https://github.com/cnYui/gintama-pixel-game) |
+| JoJo 星尘斗士 | 2D 剧情打斗：替身系统，打全部替身使者，从东京一路打到开罗 | [aaccx.pw/jojo](https://aaccx.pw/jojo/) | [jojo-pixel-game](https://github.com/cnYui/jojo-pixel-game) |
+| 锈湖：天堂岛 3D | Three.js 的 3D 第一人称解谜，目前做完第一灾「血」 | [aaccx.pw/rusty-lake](https://aaccx.pw/rusty-lake/) | [rusty-lake-paradise-3d](https://github.com/cnYui/rusty-lake-paradise-3d) |
+| 剑风传奇 | 像素剧情动作：扮演格斯，第一章「鹰之团」体验版 | [aaccx.pw/berserk](https://aaccx.pw/berserk/) | 暂未开源 |
+
+以上均为非商业同人作品，角色与原作版权归原作者所有。
 
 ## 关注方向
 
