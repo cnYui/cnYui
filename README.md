@@ -8,7 +8,7 @@
 
 - 🌐 个人网站：[aaccx.pw](https://aaccx.pw)
 - 🔌 AI API 中转站（天才程序员小站）：[aaccx.pw/home](https://aaccx.pw/home)
-- 📕 小红书：[我的小红书主页](https://www.xiaohongshu.com/user/profile/5b869e548bf5ee0001f35235)
+- 📕 小红书：[我的小红书主页](https://www.xiaohongshu.com/user/profile/62b04c20000000001b0250b3)
 - 🤖 把这个链接发给你的 AI Agent，它就能了解我：[aaccx.pw/SKILL.md](https://aaccx.pw/SKILL.md)
 - 📧 邮箱：<xiaobianfuai@gmail.com>
 
