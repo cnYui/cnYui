@@ -53,13 +53,13 @@ I'm also an independent software developer, designer and creator. I don't treat 
 </p>
 
 - 🥉 Douyin AI Changemakers Program 2026, University Hackathon League (USTC) — 3rd prize · 2026
-- 🥈 Rokid Osaka Mini Hackathon — 2nd prize · Sep 2026 (project [DoubleTraining](https://github.com/cnYui/doubletraining))
-- 🎖️ AI Hackathon Tour, Nanjing University — finalist · Mar 2026 (project [Welcometomyhouse](https://github.com/cnYui/Welcometomyhouse))
+- 🥈 Rokid Osaka Mini Hackathon — 2nd prize · Sep 2026 (project [DoubleTraining](https://github.com/cnYui/doubletraining) · [showcase](https://aaccx.pw/doubletraining/en/))
+- 🎖️ AI Hackathon Tour, Nanjing University — finalist · Mar 2026 (project [Welcometomyhouse](https://github.com/cnYui/Welcometomyhouse) · [showcase](https://aaccx.pw/welcometomyhouse/en/))
 - 🥇 Global Hackathon — Gold prize · Jan 2026
-- 🥇 Yukesong (渝客松) Google GDG track — 1st place · Nov 2025 (project [YUIkesong](https://github.com/cnYui/YUIkesong))
+- 🥇 Yukesong (渝客松) Google GDG track — 1st place · Nov 2025 (project [YUIkesong](https://github.com/cnYui/YUIkesong) · [showcase](https://aaccx.pw/yuikesong/en/))
 - 🥉 Wuxi Rokid AR AI competition — 3rd prize · Nov 2025
-- 🏅 Tencent Cloud online hackathon — award · Sep 2025 (project [healthy-pet-companion](https://github.com/cnYui/healthy-pet-companion))
-- 🥈 TRAE SOLO Hackathon, Shanghai — 2nd place · Aug 2025 (project [Github_MBTI_Gallary](https://github.com/cnYui/Github_MBTI_Gallary))
+- 🏅 Tencent Cloud online hackathon — award · Sep 2025 (project [healthy-pet-companion](https://github.com/cnYui/healthy-pet-companion) · [showcase](https://aaccx.pw/healthy-pet-companion/en/))
+- 🥈 TRAE SOLO Hackathon, Shanghai — 2nd place · Aug 2025 (project [Github_MBTI_Gallary](https://github.com/cnYui/Github_MBTI_Gallary) · [showcase](https://aaccx.pw/github_mbti_gallary/en/))
 
 <table>
   <tr>
