@@ -1,3 +1,5 @@
+🌐 **中文** · [English](README.en.md) · [日本語](README.ja.md)
+
 <img src="assets/portrait.jpg" align="right" width="190" alt="Yui" />
 
 # Yui / 悠一
@@ -11,19 +13,6 @@
 - 📕 小红书：[我的小红书主页](https://www.xiaohongshu.com/user/profile/62b04c20000000001b0250b3)
 - 🤖 把这个链接发给你的 AI Agent，它就能了解我：[aaccx.pw/SKILL.md](https://aaccx.pw/SKILL.md)
 - 📧 邮箱：<xiaobianfuai@gmail.com>
-
-## 在线可玩的游戏
-
-把喜欢的作品做成了可以直接在浏览器里玩的剧情游戏，全部部署在 [aaccx.pw](https://aaccx.pw)，打开就能玩，电脑（键盘）和手机 / 平板（横屏触屏）都支持。
-
-| 游戏 | 简介 | 在线试玩 | 源码 |
-| --- | --- | --- | --- |
-| 银魂 像素剧场 | 2D 剧情打斗：对话推进、自由走动、触发战斗，序章到终章共 15 章 | [aaccx.pw/gintama](https://aaccx.pw/gintama/) | [gintama-pixel-game](https://github.com/cnYui/gintama-pixel-game) |
-| JoJo 星尘斗士 | 2D 剧情打斗：替身系统，打全部替身使者，从东京一路打到开罗 | [aaccx.pw/jojo](https://aaccx.pw/jojo/) | [jojo-pixel-game](https://github.com/cnYui/jojo-pixel-game) |
-| 锈湖：天堂岛 3D | Three.js 的 3D 第一人称解谜，目前做完第一灾「血」 | [aaccx.pw/rusty-lake](https://aaccx.pw/rusty-lake/) | [rusty-lake-paradise-3d](https://github.com/cnYui/rusty-lake-paradise-3d) |
-| 剑风传奇 | 像素剧情动作：扮演格斯，第一章「鹰之团」体验版 | [aaccx.pw/berserk](https://aaccx.pw/berserk/) | 暂未开源 |
-
-以上均为非商业同人作品，角色与原作版权归原作者所有。
 
 ## 关注方向
 
@@ -78,3 +67,16 @@
 - 高频黑客松参与者
 - 产品导向的 AI Coding 实践者
 - 关注设计审美、产品完整性与验证闭环
+
+## 业余小游戏（动漫二创）
+
+平时喜欢把动漫作品做成可以直接在浏览器里玩的剧情小游戏，全部部署在 [aaccx.pw](https://aaccx.pw)，打开就能玩，电脑（键盘）和手机 / 平板（横屏触屏）都支持。
+
+| 游戏 | 简介 | 在线试玩 | 源码 |
+| --- | --- | --- | --- |
+| 银魂 像素剧场 | 2D 剧情打斗：对话推进、自由走动、触发战斗，序章到终章共 15 章 | [aaccx.pw/gintama](https://aaccx.pw/gintama/) | [gintama-pixel-game](https://github.com/cnYui/gintama-pixel-game) |
+| JoJo 星尘斗士 | 2D 剧情打斗：替身系统，打全部替身使者，从东京一路打到开罗 | [aaccx.pw/jojo](https://aaccx.pw/jojo/) | [jojo-pixel-game](https://github.com/cnYui/jojo-pixel-game) |
+| 锈湖：天堂岛 3D | Three.js 的 3D 第一人称解谜，目前做完第一灾「血」 | [aaccx.pw/rusty-lake](https://aaccx.pw/rusty-lake/) | [rusty-lake-paradise-3d](https://github.com/cnYui/rusty-lake-paradise-3d) |
+| 剑风传奇 | 像素剧情动作：扮演格斯，第一章「鹰之团」体验版 | [aaccx.pw/berserk](https://aaccx.pw/berserk/) | 暂未开源 |
+
+以上均为非商业同人作品，角色与原作版权归原作者所有。
