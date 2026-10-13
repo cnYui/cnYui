@@ -52,6 +52,7 @@
   <img src="assets/adventurex-2024.jpg" width="49%" alt="AdventureX 2024" />
 </p>
 
+- 🥉 抖音 AI 创变者计划 2026 高校黑客松联赛（中国科大站）三等奖 · 2026
 - 🥈 Rokid 大阪 Mini Hackathon 二等奖 · 2026.09（项目 [DoubleTraining](https://github.com/cnYui/doubletraining)）
 - 🎖️ AI Hackathon Tour 南京大学站 决赛入围 · 2026.03（项目 [Welcometomyhouse](https://github.com/cnYui/Welcometomyhouse)）
 - 🥇 环球黑客松 金奖 · 2026.01
@@ -59,6 +60,25 @@
 - 🥉 无锡 Rokid AR AI 比赛 三等奖 · 2025.11
 - 🏅 腾讯云线上黑客松 获奖 · 2025.09（项目 [healthy-pet-companion](https://github.com/cnYui/healthy-pet-companion)）
 - 🥈 TRAE SOLO 黑客松上海站 第二名 · 2025.08（项目 [Github_MBTI_Gallary](https://github.com/cnYui/Github_MBTI_Gallary)）
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%"><img src="assets/douyin-ai-changemakers-ustc-2026.jpg" alt="抖音 AI 创变者计划 2026 高校黑客松联赛 中国科大站 三等奖证书" /><br /><sub>抖音 AI 创变者计划 · 中国科大站 三等奖</sub></td>
+    <td align="center" valign="top" width="33%"><img src="assets/rokid-osaka-2nd-2026.jpg" alt="大阪 Rokid Mini Hackathon 第二名" /><br /><sub>大阪 Rokid Mini Hackathon 第二名</sub></td>
+    <td align="center" valign="top" width="33%"><img src="assets/nju-hackathon-tour-finalist-2026.jpg" alt="AI Hackathon Tour 南京大学站 决赛入围奖证书" /><br /><sub>AI Hackathon Tour 南京大学站 决赛入围</sub></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%"><img src="assets/yukesong-gdg-1st-2025.jpg" alt="渝客松官方获奖名单截图，Google GDG 赛道第一名" /><br /><sub>渝客松 Google GDG 赛道 第一名（官方获奖名单截图）</sub></td>
+    <td align="center" valign="top" width="33%"><img src="assets/rokid-wuxi-3rd-2025.jpg" alt="无锡 Rokid AI 赛道 第三名（锡跃 SPACE 未来新锐奖）" /><br /><sub>Rokid AI 赛道 第三名（锡跃 SPACE 未来新锐奖）</sub></td>
+    <td align="center" valign="top" width="33%"><img src="assets/trae-solo-shanghai-2nd-2025.jpg" alt="TRAE SOLO 黑客松上海站 二等奖" /><br /><sub>上海 TRAE 黑客松 第二名</sub></td>
+  </tr>
+</table>
+
+## 论文发表
+
+- **Fake News Detection Method Based on Multi-Modal Dual-Encoder Fusion Network**（共同作者）· ICAIBD 2026（第 9 届人工智能与大数据国际会议，成都）录用并发表 · 2026.05
+
+<img src="assets/icaibd-2026-acceptance.jpg" width="40%" alt="ICAIBD 2026 论文录用通知" />
 
 ## 经历关键词
 

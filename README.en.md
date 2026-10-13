@@ -52,6 +52,7 @@ I'm also an independent software developer, designer and creator. I don't treat 
   <img src="assets/adventurex-2024.jpg" width="49%" alt="AdventureX 2024" />
 </p>
 
+- 🥉 Douyin AI Changemakers Program 2026, University Hackathon League (USTC) — 3rd prize · 2026
 - 🥈 Rokid Osaka Mini Hackathon — 2nd prize · Sep 2026 (project [DoubleTraining](https://github.com/cnYui/doubletraining))
 - 🎖️ AI Hackathon Tour, Nanjing University — finalist · Mar 2026 (project [Welcometomyhouse](https://github.com/cnYui/Welcometomyhouse))
 - 🥇 Global Hackathon — Gold prize · Jan 2026
@@ -59,6 +60,25 @@ I'm also an independent software developer, designer and creator. I don't treat 
 - 🥉 Wuxi Rokid AR AI competition — 3rd prize · Nov 2025
 - 🏅 Tencent Cloud online hackathon — award · Sep 2025 (project [healthy-pet-companion](https://github.com/cnYui/healthy-pet-companion))
 - 🥈 TRAE SOLO Hackathon, Shanghai — 2nd place · Aug 2025 (project [Github_MBTI_Gallary](https://github.com/cnYui/Github_MBTI_Gallary))
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%"><img src="assets/douyin-ai-changemakers-ustc-2026.jpg" alt="Douyin AI Changemakers Program 2026, University Hackathon League (USTC) — 3rd prize certificate" /><br /><sub>Douyin AI Changemakers Program, USTC — 3rd prize</sub></td>
+    <td align="center" valign="top" width="33%"><img src="assets/rokid-osaka-2nd-2026.jpg" alt="Rokid Osaka Mini Hackathon — 2nd prize" /><br /><sub>Rokid Osaka Mini Hackathon — 2nd prize</sub></td>
+    <td align="center" valign="top" width="33%"><img src="assets/nju-hackathon-tour-finalist-2026.jpg" alt="AI Hackathon Tour, Nanjing University — finalist certificates" /><br /><sub>AI Hackathon Tour, Nanjing University — finalist</sub></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%"><img src="assets/yukesong-gdg-1st-2025.jpg" alt="Screenshot of the official Yukesong winners announcement: Google GDG track, 1st place" /><br /><sub>Yukesong Google GDG track — 1st place (screenshot of the official winners announcement)</sub></td>
+    <td align="center" valign="top" width="33%"><img src="assets/rokid-wuxi-3rd-2025.jpg" alt="Wuxi Rokid AI track — 3rd place (Xiyue SPACE Future Rising Star award)" /><br /><sub>Rokid AI track — 3rd place (Xiyue SPACE Future Rising Star award)</sub></td>
+    <td align="center" valign="top" width="33%"><img src="assets/trae-solo-shanghai-2nd-2025.jpg" alt="TRAE SOLO Hackathon, Shanghai — 2nd prize" /><br /><sub>TRAE SOLO Hackathon, Shanghai — 2nd place</sub></td>
+  </tr>
+</table>
+
+## Publications
+
+- **Fake News Detection Method Based on Multi-Modal Dual-Encoder Fusion Network** (co-author) — accepted and published at ICAIBD 2026, the 9th International Conference on Artificial Intelligence and Big Data, Chengdu · May 2026
+
+<img src="assets/icaibd-2026-acceptance.jpg" width="40%" alt="ICAIBD 2026 notification of acceptance" />
 
 ## Keywords
 

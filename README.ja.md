@@ -52,6 +52,7 @@ Yui（邬健翔 / WU JIANXIANG）です。**福井大学**大学院で情報工�
   <img src="assets/adventurex-2024.jpg" width="49%" alt="AdventureX 2024" />
 </p>
 
+- 🥉 Douyin（抖音）AI 創変者計画 2026 大学ハッカソンリーグ（中国科学技術大学会場）3 位 · 2026
 - 🥈 Rokid 大阪 Mini Hackathon 準優勝（2 位）· 2026.09（プロジェクト [DoubleTraining](https://github.com/cnYui/doubletraining)）
 - 🎖️ AI Hackathon Tour 南京大学会場 決勝進出 · 2026.03（プロジェクト [Welcometomyhouse](https://github.com/cnYui/Welcometomyhouse)）
 - 🥇 グローバル・ハッカソン（环球黑客松）金賞 · 2026.01
@@ -59,6 +60,25 @@ Yui（邬健翔 / WU JIANXIANG）です。**福井大学**大学院で情報工�
 - 🥉 無錫 Rokid AR AI コンテスト 3 位 · 2025.11
 - 🏅 Tencent Cloud オンライン・ハッカソン 受賞 · 2025.09（プロジェクト [healthy-pet-companion](https://github.com/cnYui/healthy-pet-companion)）
 - 🥈 TRAE SOLO ハッカソン 上海会場 2 位 · 2025.08（プロジェクト [Github_MBTI_Gallary](https://github.com/cnYui/Github_MBTI_Gallary)）
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%"><img src="assets/douyin-ai-changemakers-ustc-2026.jpg" alt="Douyin（抖音）AI 創変者計画 2026 大学ハッカソンリーグ 中国科学技術大学会場 3 位の賞状" /><br /><sub>Douyin AI 創変者計画・中国科学技術大学会場 3 位</sub></td>
+    <td align="center" valign="top" width="33%"><img src="assets/rokid-osaka-2nd-2026.jpg" alt="Rokid 大阪 Mini Hackathon 準優勝" /><br /><sub>Rokid 大阪 Mini Hackathon 準優勝（2 位）</sub></td>
+    <td align="center" valign="top" width="33%"><img src="assets/nju-hackathon-tour-finalist-2026.jpg" alt="AI Hackathon Tour 南京大学会場 決勝進出の賞状" /><br /><sub>AI Hackathon Tour 南京大学会場 決勝進出</sub></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%"><img src="assets/yukesong-gdg-1st-2025.jpg" alt="渝客松公式の受賞者発表のスクリーンショット：Google GDG トラック 1 位" /><br /><sub>渝客松 Google GDG トラック 1 位（公式受賞者発表のスクリーンショット）</sub></td>
+    <td align="center" valign="top" width="33%"><img src="assets/rokid-wuxi-3rd-2025.jpg" alt="無錫 Rokid AI トラック 3 位（錫躍 SPACE 未来新鋭賞）" /><br /><sub>Rokid AI トラック 3 位（錫躍 SPACE 未来新鋭賞）</sub></td>
+    <td align="center" valign="top" width="33%"><img src="assets/trae-solo-shanghai-2nd-2025.jpg" alt="TRAE SOLO ハッカソン 上海会場 2 位" /><br /><sub>TRAE SOLO ハッカソン 上海会場 2 位</sub></td>
+  </tr>
+</table>
+
+## 論文
+
+- **Fake News Detection Method Based on Multi-Modal Dual-Encoder Fusion Network**（共著）· ICAIBD 2026（第 9 回 人工知能・ビッグデータ国際会議、成都）に採択・発表 · 2026.05
+
+<img src="assets/icaibd-2026-acceptance.jpg" width="40%" alt="ICAIBD 2026 採択通知" />
 
 ## キーワード
 
