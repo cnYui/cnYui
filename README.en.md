@@ -32,7 +32,8 @@ I'm also an independent software developer, designer and creator. I don't treat 
 
 ## Experience
 
-- **AI Mage** — Intern (anime IP supervision × AI) · Aug 2026 – Sep 2026
+- **AI Mage** — Intern (anime IP supervision × AI) · Sep 2026 – Oct 2026
+  The company builds multimodal Agentic RAG for anime studios (B2B): when an animator wants a specific action of a character from a particular episode as a drawing reference for a new one, they can find it directly with the product. I worked on data alignment for the RAG part of the system.
 - **National Energy Research Institute** — R&D / operations intern · Sep 2025 – Mar 2026
   Built, deployed and operated a multimodal RAG system: extracted text / images / tables from documents, tagged them with a local vision model, embedded them and tested retrieval, and built a Docker-based multimodal Agentic RAG chat WebUI (frontend and backend in one).
 
