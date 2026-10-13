@@ -52,12 +52,12 @@
 </p>
 
 - 🥈 Rokid 大阪 Mini Hackathon 二等奖 · 2026.09（项目 [DoubleTraining](https://github.com/cnYui/doubletraining)）
-- 🎖️ AI Hackathon Tour 南京大学站 决赛入围 · 2026.03
+- 🎖️ AI Hackathon Tour 南京大学站 决赛入围 · 2026.03（项目 [Welcometomyhouse](https://github.com/cnYui/Welcometomyhouse)）
 - 🥇 环球黑客松 金奖 · 2026.01
 - 🥇 渝客松 Google GDG 赛道 第一名 · 2025.11（项目 [YUIkesong](https://github.com/cnYui/YUIkesong)）
 - 🥉 无锡 Rokid AR AI 比赛 三等奖 · 2025.11
-- 🏅 腾讯云线上黑客松 获奖 · 2025.09
-- 🥈 TRAE SOLO 黑客松上海站 第二名 · 2025.08
+- 🏅 腾讯云线上黑客松 获奖 · 2025.09（项目 [healthy-pet-companion](https://github.com/cnYui/healthy-pet-companion)）
+- 🥈 TRAE SOLO 黑客松上海站 第二名 · 2025.08（项目 [Github_MBTI_Gallary](https://github.com/cnYui/Github_MBTI_Gallary)）
 
 ## 经历关键词
 

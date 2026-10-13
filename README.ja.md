@@ -52,12 +52,12 @@ Yui（邬健翔 / WU JIANXIANG）です。**福井大学**大学院で情報工�
 </p>
 
 - 🥈 Rokid 大阪 Mini Hackathon 準優勝（2 位）· 2026.09（プロジェクト [DoubleTraining](https://github.com/cnYui/doubletraining)）
-- 🎖️ AI Hackathon Tour 南京大学会場 決勝進出 · 2026.03
+- 🎖️ AI Hackathon Tour 南京大学会場 決勝進出 · 2026.03（プロジェクト [Welcometomyhouse](https://github.com/cnYui/Welcometomyhouse)）
 - 🥇 グローバル・ハッカソン（环球黑客松）金賞 · 2026.01
 - 🥇 渝客松（Yukesong）Google GDG トラック 1 位 · 2025.11（プロジェクト [YUIkesong](https://github.com/cnYui/YUIkesong)）
 - 🥉 無錫 Rokid AR AI コンテスト 3 位 · 2025.11
-- 🏅 Tencent Cloud オンライン・ハッカソン 受賞 · 2025.09
-- 🥈 TRAE SOLO ハッカソン 上海会場 2 位 · 2025.08
+- 🏅 Tencent Cloud オンライン・ハッカソン 受賞 · 2025.09（プロジェクト [healthy-pet-companion](https://github.com/cnYui/healthy-pet-companion)）
+- 🥈 TRAE SOLO ハッカソン 上海会場 2 位 · 2025.08（プロジェクト [Github_MBTI_Gallary](https://github.com/cnYui/Github_MBTI_Gallary)）
 
 ## キーワード
 
