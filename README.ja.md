@@ -53,13 +53,13 @@ Yui（邬健翔 / WU JIANXIANG）です。**福井大学**大学院で情報工�
 </p>
 
 - 🥉 Douyin（抖音）AI 創変者計画 2026 大学ハッカソンリーグ（中国科学技術大学会場）3 位 · 2026
-- 🥈 Rokid 大阪 Mini Hackathon 準優勝（2 位）· 2026.09（プロジェクト [DoubleTraining](https://github.com/cnYui/doubletraining)）
-- 🎖️ AI Hackathon Tour 南京大学会場 決勝進出 · 2026.03（プロジェクト [Welcometomyhouse](https://github.com/cnYui/Welcometomyhouse)）
+- 🥈 Rokid 大阪 Mini Hackathon 準優勝（2 位）· 2026.09（プロジェクト [DoubleTraining](https://github.com/cnYui/doubletraining) · [紹介ページ](https://aaccx.pw/doubletraining/ja/)）
+- 🎖️ AI Hackathon Tour 南京大学会場 決勝進出 · 2026.03（プロジェクト [Welcometomyhouse](https://github.com/cnYui/Welcometomyhouse) · [紹介ページ](https://aaccx.pw/welcometomyhouse/ja/)）
 - 🥇 グローバル・ハッカソン（环球黑客松）金賞 · 2026.01
-- 🥇 渝客松（Yukesong）Google GDG トラック 1 位 · 2025.11（プロジェクト [YUIkesong](https://github.com/cnYui/YUIkesong)）
+- 🥇 渝客松（Yukesong）Google GDG トラック 1 位 · 2025.11（プロジェクト [YUIkesong](https://github.com/cnYui/YUIkesong) · [紹介ページ](https://aaccx.pw/yuikesong/ja/)）
 - 🥉 無錫 Rokid AR AI コンテスト 3 位 · 2025.11
-- 🏅 Tencent Cloud オンライン・ハッカソン 受賞 · 2025.09（プロジェクト [healthy-pet-companion](https://github.com/cnYui/healthy-pet-companion)）
-- 🥈 TRAE SOLO ハッカソン 上海会場 2 位 · 2025.08（プロジェクト [Github_MBTI_Gallary](https://github.com/cnYui/Github_MBTI_Gallary)）
+- 🏅 Tencent Cloud オンライン・ハッカソン 受賞 · 2025.09（プロジェクト [healthy-pet-companion](https://github.com/cnYui/healthy-pet-companion) · [紹介ページ](https://aaccx.pw/healthy-pet-companion/ja/)）
+- 🥈 TRAE SOLO ハッカソン 上海会場 2 位 · 2025.08（プロジェクト [Github_MBTI_Gallary](https://github.com/cnYui/Github_MBTI_Gallary) · [紹介ページ](https://aaccx.pw/github_mbti_gallary/ja/)）
 
 <table>
   <tr>
