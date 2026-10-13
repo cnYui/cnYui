@@ -1,3 +1,5 @@
+🌐 **中文** · [English](README.en.md) · [日本語](README.ja.md)
+
 <img src="assets/portrait.jpg" align="right" width="190" alt="Yui" />
 
 # Yui / 悠一
@@ -11,19 +13,6 @@
 - 📕 小红书：[我的小红书主页](https://www.xiaohongshu.com/user/profile/62b04c20000000001b0250b3)
 - 🤖 把这个链接发给你的 AI Agent，它就能了解我：[aaccx.pw/SKILL.md](https://aaccx.pw/SKILL.md)
 - 📧 邮箱：<xiaobianfuai@gmail.com>
-
-## 在线可玩的游戏
-
-把喜欢的作品做成了可以直接在浏览器里玩的剧情游戏，全部部署在 [aaccx.pw](https://aaccx.pw)，打开就能玩，电脑（键盘）和手机 / 平板（横屏触屏）都支持。
-
-| 游戏 | 简介 | 在线试玩 | 源码 |
-| --- | --- | --- | --- |
-| 银魂 像素剧场 | 2D 剧情打斗：对话推进、自由走动、触发战斗，序章到终章共 15 章 | [aaccx.pw/gintama](https://aaccx.pw/gintama/) | [gintama-pixel-game](https://github.com/cnYui/gintama-pixel-game) |
-| JoJo 星尘斗士 | 2D 剧情打斗：替身系统，打全部替身使者，从东京一路打到开罗 | [aaccx.pw/jojo](https://aaccx.pw/jojo/) | [jojo-pixel-game](https://github.com/cnYui/jojo-pixel-game) |
-| 锈湖：天堂岛 3D | Three.js 的 3D 第一人称解谜，目前做完第一灾「血」 | [aaccx.pw/rusty-lake](https://aaccx.pw/rusty-lake/) | [rusty-lake-paradise-3d](https://github.com/cnYui/rusty-lake-paradise-3d) |
-| 剑风传奇 | 像素剧情动作：扮演格斯，第一章「鹰之团」体验版 | [aaccx.pw/berserk](https://aaccx.pw/berserk/) | 暂未开源 |
-
-以上均为非商业同人作品，角色与原作版权归原作者所有。
 
 ## 关注方向
 
@@ -43,7 +32,8 @@
 
 ## 经历
 
-- **AI Mage** — 实习（アニメ IP 监修 × AI）· 2026.8 – 2026.9
+- **AI Mage** — 实习（アニメ IP 监修 × AI）· 2026.9 – 2026.10
+  公司面向动漫公司（ToB）做多模态 Agentic RAG：画师想找某一集里某个角色的某个动作，作为新一集的绘画参考，就可以用产品直接检索。我负责其中 RAG 部分的数据对齐。
 - **National Energy Research Institute** — 研发 / 运维实习 · 2025.9 – 2026.3
   围绕多模态 RAG 做开发、部署与运维：抽取文档中的文本 / 图像 / 表格，用本地视觉模型打标、Embedding 向量化与召回测试，并用 Docker 搭建多模态 Agentic RAG 对话 WebUI（前后端一体）。
 
@@ -62,13 +52,33 @@
   <img src="assets/adventurex-2024.jpg" width="49%" alt="AdventureX 2024" />
 </p>
 
+- 🥉 抖音 AI 创变者计划 2026 高校黑客松联赛（中国科大站）三等奖 · 2026
 - 🥈 Rokid 大阪 Mini Hackathon 二等奖 · 2026.09（项目 [DoubleTraining](https://github.com/cnYui/doubletraining)）
-- 🎖️ AI Hackathon Tour 南京大学站 决赛入围 · 2026.03
+- 🎖️ AI Hackathon Tour 南京大学站 决赛入围 · 2026.03（项目 [Welcometomyhouse](https://github.com/cnYui/Welcometomyhouse)）
 - 🥇 环球黑客松 金奖 · 2026.01
 - 🥇 渝客松 Google GDG 赛道 第一名 · 2025.11（项目 [YUIkesong](https://github.com/cnYui/YUIkesong)）
 - 🥉 无锡 Rokid AR AI 比赛 三等奖 · 2025.11
-- 🏅 腾讯云线上黑客松 获奖 · 2025.09
-- 🥈 TRAE SOLO 黑客松上海站 第二名 · 2025.08
+- 🏅 腾讯云线上黑客松 获奖 · 2025.09（项目 [healthy-pet-companion](https://github.com/cnYui/healthy-pet-companion)）
+- 🥈 TRAE SOLO 黑客松上海站 第二名 · 2025.08（项目 [Github_MBTI_Gallary](https://github.com/cnYui/Github_MBTI_Gallary)）
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%"><img src="assets/douyin-ai-changemakers-ustc-2026.jpg" alt="抖音 AI 创变者计划 2026 高校黑客松联赛 中国科大站 三等奖证书" /><br /><sub>抖音 AI 创变者计划 · 中国科大站 三等奖</sub></td>
+    <td align="center" valign="top" width="33%"><img src="assets/rokid-osaka-2nd-2026.jpg" alt="大阪 Rokid Mini Hackathon 第二名" /><br /><sub>大阪 Rokid Mini Hackathon 第二名</sub></td>
+    <td align="center" valign="top" width="33%"><img src="assets/nju-hackathon-tour-finalist-2026.jpg" alt="AI Hackathon Tour 南京大学站 决赛入围奖证书" /><br /><sub>AI Hackathon Tour 南京大学站 决赛入围</sub></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%"><img src="assets/yukesong-gdg-1st-2025.jpg" alt="渝客松官方获奖名单截图，Google GDG 赛道第一名" /><br /><sub>渝客松 Google GDG 赛道 第一名（官方获奖名单截图）</sub></td>
+    <td align="center" valign="top" width="33%"><img src="assets/rokid-wuxi-3rd-2025.jpg" alt="无锡 Rokid AI 赛道 第三名（锡跃 SPACE 未来新锐奖）" /><br /><sub>Rokid AI 赛道 第三名（锡跃 SPACE 未来新锐奖）</sub></td>
+    <td align="center" valign="top" width="33%"><img src="assets/trae-solo-shanghai-2nd-2025.jpg" alt="TRAE SOLO 黑客松上海站 二等奖" /><br /><sub>上海 TRAE 黑客松 第二名</sub></td>
+  </tr>
+</table>
+
+## 论文发表
+
+- **Fake News Detection Method Based on Multi-Modal Dual-Encoder Fusion Network**（共同作者）· ICAIBD 2026（第 9 届人工智能与大数据国际会议，成都）录用并发表 · 2026.05
+
+<img src="assets/icaibd-2026-acceptance.jpg" width="40%" alt="ICAIBD 2026 论文录用通知" />
 
 ## 经历关键词
 
@@ -78,3 +88,16 @@
 - 高频黑客松参与者
 - 产品导向的 AI Coding 实践者
 - 关注设计审美、产品完整性与验证闭环
+
+## 业余小游戏（动漫二创）
+
+平时喜欢把动漫作品做成可以直接在浏览器里玩的剧情小游戏，全部部署在 [aaccx.pw](https://aaccx.pw)，打开就能玩，电脑（键盘）和手机 / 平板（横屏触屏）都支持。
+
+| 游戏 | 简介 | 在线试玩 | 源码 |
+| --- | --- | --- | --- |
+| 银魂 像素剧场 | 2D 剧情打斗：对话推进、自由走动、触发战斗，序章到终章共 15 章 | [aaccx.pw/gintama](https://aaccx.pw/gintama/) | [gintama-pixel-game](https://github.com/cnYui/gintama-pixel-game) |
+| JoJo 星尘斗士 | 2D 剧情打斗：替身系统，打全部替身使者，从东京一路打到开罗 | [aaccx.pw/jojo](https://aaccx.pw/jojo/) | [jojo-pixel-game](https://github.com/cnYui/jojo-pixel-game) |
+| 锈湖：天堂岛 3D | Three.js 的 3D 第一人称解谜，目前做完第一灾「血」 | [aaccx.pw/rusty-lake](https://aaccx.pw/rusty-lake/) | [rusty-lake-paradise-3d](https://github.com/cnYui/rusty-lake-paradise-3d) |
+| 剑风传奇 | 像素剧情动作：扮演格斯，第一章「鹰之团」体验版 | [aaccx.pw/berserk](https://aaccx.pw/berserk/) | 暂未开源 |
+
+以上均为非商业同人作品，角色与原作版权归原作者所有。
